@@ -1,0 +1,68 @@
+.body{
+    border: 10px black groove;
+    height: 250px;
+    width: 450px;
+    border-radius: 30px;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/007/105/007/small_2x/luxury-abstract-background-with-golden-and-black-shapes-metal-texture-steel-background-vactor-design-illustration-free-vector.jpg');
+    padding: 10px;
+    /* opacity: 0.8; */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: "Lucida Console", "Courier New", monospace;
+/* }
+.ttext{
+    color: whitesmoke */
+
+}
+/*
+.ttext:hover{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100px;
+    
+} */
+
+.text{
+    border-radius: 5px;
+    height: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.text:hover{
+    background-color: slateblue;
+}
+.mail{
+    border-radius: 5px;
+    height: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.mail:hover{
+    background-color: slateblue;
+}
+.pword{
+    border-radius: 5px;
+    height: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.pword:hover{
+    background-color: slateblue;
+}
+.btn{
+    border-radius: 5px;
+    height: 30px;
+    color: crimson;
+    background-color: steelblue;
+    width: 80px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.btn:hover{
+    background-color: tomato;
+    height: 40px;
+    width: 90px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.table{
+    background-color: violet;
+    padding: 5px ;
+    margin: 20px;
+    width: 600px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
